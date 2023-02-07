@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="174fb61a-ec71-4765-b437-0b52c82ff564" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson2/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/main2.js" afterDir="false" />
+    <list default="true" id="174fb61a-ec71-4765-b437-0b52c82ff564" name="Changes" comment="homework2">
+      <change afterPath="$PROJECT_DIR$/lesson3/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/main3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,11 +57,24 @@
       <updated>1675201598102</updated>
       <workItem from="1675201599160" duration="2368000" />
       <workItem from="1675366065781" duration="8636000" />
-      <workItem from="1675425586489" duration="9004000" />
+      <workItem from="1675425586489" duration="10632000" />
+      <workItem from="1675796667846" duration="10364000" />
     </task>
+    <task id="LOCAL-00001" summary="homework2">
+      <created>1675434748783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675434748783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2" />
   </component>
 </project>
