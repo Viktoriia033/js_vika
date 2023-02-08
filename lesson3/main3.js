@@ -1,102 +1,15 @@
 // За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом всередині
-// let text = [
-//     {
-//         title:'text1',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text2',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text3',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text4',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text5',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text6',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text7',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text8',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text9',
-//         contents:'ahahaha'
-//     },
-//     {
-//         title:'text10',
-//         contents:'ahahaha'
-//     },
-// ];
-// for (let i = 0; i <text.length; i++) {
-//     let texts = text[i];
+// for (let i = 0; i <= 10; i++) {
 //     document.write(`<div class = 'target'>
-//                         ${texts.contents}
-// </div>`);
+//                     ${'ahahahha'}
+//     </div>`);
 // }
 //- За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
-// let text2 = [
-//     {
-//         index:1,
-//         contents:'ahahaha',
-//
-//     },
-//     {
-//         index:2,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:3,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:4,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:5,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:6,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:7,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:8,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:9,
-//         contents:'ahahaha'
-//     },
-//     {
-//         index:10,
-//         contents:'ahahaha'
-//     },
-// ];
-// for (let i = 0; i <text2.length; i++) {
-//     let texts = text2[i];
-//     document.write(`<div>
-//                         ${texts.index}
-//                         ${texts.contents}
-// </div>`);
+// for (let i = 0; i <= 10; i++) {
+//     document.write(`<div class = 'target'>
+//                     ${'1'}
+//                     ${'ahahahha'}
+//     </div>`);
 // }
 //- За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
 // let numbers = [
