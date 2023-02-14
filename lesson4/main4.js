@@ -77,42 +77,28 @@
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий.
 // Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
 
+
 // function list(descr,number) {
-//     for (let i = 0; i <= 10; i++) {
-//         document.write(
-//             `
-//         <div>
-//         <ul>
-//         <li>${descr}</li>
-//         <li>${descr}</li>
-//         <li>${descr}</li>
-// </ul>
-//         </div>
-//         `
-//         )
+//     document.write(`<ul>`);
+//     for (let i = 0; i < number; i++){
+//         document.write(`<li>${descr}</li>`);
 //     }
+//     document.write(`</ul>`);
 // }
-// list('hi');
+
 
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
 
-// function firstarray (array) {
-//     for (let item of array){
-//         console.log(item);
-//         document.write(
-//             `
-//         <div>
-//         <ul>
-//         <li>${array}</li>
-// </ul>
-//         </div>
-//         `
-//         )
-//     }
-// }
-// let users = [2,3,4,5];
-// firstarray(users);
 
+
+// function firstarray (array) {
+//     document.write(`<ul>`);
+//     for (let arrayElement of array) {
+//         document.write(`<li>${arrayElement}</li>`);
+//
+//     }
+//     document.write(`</li>`);
+// }
 
 // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
 
@@ -141,14 +127,16 @@
 //  foo(users)
 
 // - створити функцію яка повертає найменьше число з масиву
-//
-// let arr = [70,50,60,75,10,25];
-// function numbers (arr) {
-// let numbers = Math.min(...arr);
-// return numbers;
+// function number(arrnumbers) {
+//     let min = 0;
+//     for (let arrnumber of arrnumbers) {
+//         if (min > number) {
+//             min = number
+//         }
+//     }
+//     return min;
 // }
-// console.log(numbers(arr))
-//
+// number([12,25,23,851]);
 // - створити функцію sum(arr)яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад sum([1,2,10]) //->13
 //
 // function sum(arr) {
@@ -181,22 +169,27 @@
 //
 // console.log(arr);
 //
-// Написати функцію обміну валюти exchange(sumUAH,currencyValues,exchangeCurrency)
+// Написати функцію обміну валюти exchange(sumUAH,currencyValues,exchangeCurrency)x
 // Приклад exchange(10000,[{currency:'USD',value:40},{currency:'EUR',value:42}],'USD') // => 250
-//
-// function exchange (sumUAH) {
-//     let currencyValues = 'EUR';
-//     let value = 42;
-//     return sumUAH * value + currencyValues;
-// }
-// let money = exchange(200);
-// console.log(money);
-//
-// function exchange (sumUAH) {
-//     let currencyValues = 'USD';
-//     let value = 39.7;
-//     return sumUAH * value + currencyValues;
-// }
-// let money = exchange(200);
-// console.log(money);
- 
+
+//  function exchange(UAN,currencyValues,exchangeCurrency) {
+//      for (let item of currencyValues) {
+//          if (item.currency === exchangeCurrency) {
+//              return UAN / item.value;
+//          }
+//      }
+//     exchange(
+//         20000,
+//         [
+//             {currency:'eur',value: 42},
+//             {currency:'eur',value: 42},
+//             {currency:'eur',value: 42}
+//         ],
+//         'USD'
+//     )
+
+
+    )
+
+
+ }
