@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="174fb61a-ec71-4765-b437-0b52c82ff564" name="Changes" comment="homework3">
-      <change afterPath="$PROJECT_DIR$/lesson5/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/main5.js" afterDir="false" />
+    <list default="true" id="174fb61a-ec71-4765-b437-0b52c82ff564" name="Changes" comment="homework5">
+      <change afterPath="$PROJECT_DIR$/lesson6/ahah.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/main6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/main4.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/main4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,7 +72,11 @@
       <workItem from="1676293296529" duration="6852000" />
       <workItem from="1676378383521" duration="4872000" />
       <workItem from="1676443795201" duration="4436000" />
-      <workItem from="1676462205506" duration="596000" />
+      <workItem from="1676462205506" duration="745000" />
+      <workItem from="1676546507092" duration="3016000" />
+      <workItem from="1676714003527" duration="11247000" />
+      <workItem from="1676733445556" duration="7000" />
+      <workItem from="1676877776801" duration="16717000" />
     </task>
     <task id="LOCAL-00001" summary="homework2">
       <created>1675434748783</created>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675868660409</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework5">
+      <created>1676463898447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676463898447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework2" />
     <MESSAGE value="homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
+    <MESSAGE value="homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
   </component>
 </project>
