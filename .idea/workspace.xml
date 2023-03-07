@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="174fb61a-ec71-4765-b437-0b52c82ff564" name="Changes" comment="homework8">
-      <change afterPath="$PROJECT_DIR$/lesson9/index9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/main9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/main10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/index99.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/main99.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/index9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,6 +88,10 @@
       <workItem from="1677598758805" duration="7782000" />
       <workItem from="1677616838331" duration="28000" />
       <workItem from="1677838392332" duration="3784000" />
+      <workItem from="1678031444428" duration="7549000" />
+      <workItem from="1678100849368" duration="4297000" />
+      <workItem from="1678136139282" duration="4810000" />
+      <workItem from="1678183750673" duration="5790000" />
     </task>
     <task id="LOCAL-00001" summary="homework2">
       <created>1675434748783</created>

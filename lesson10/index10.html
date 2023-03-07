@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Document</title>
+</head>
+<body>
+<!--// Стоврити форму з трьома полями для name,sruname,age та кнопкою. При натисканні на кнопку зчитати данні з полів, та вивести об'єкт в документ. Іншими словами : заповниои форму, натиснули кнопку, під формою з'явився блок з вашим об'єктом-->
+<!--<form name="first" class="first_form">-->
+<!--    <input placeholder="enter you name" id="name">-->
+<!--    <br>-->
+<!--    <input placeholder="enter you surname" id="surname">-->
+<!--    <br>-->
+<!--    <input placeholder="enter you age" id="age">-->
+<!--    <br>-->
+<!--    <button id="button">Click</button>-->
+<!--</form>-->
+
+<!--// є сторінка, на якій є блок, я кому знаходиьтся цифра. написати код, який при кожному перезавантажені сторінки буде додавати до неї +1-->
+<!--<h1>Number <i id="number"></i></h1>-->
+
+<!--зробити масив на 100 об'єктів та дві кнопки prev next-->
+<!--<button id="prev"-->
+<!--        disabled>prev-->
+<!--</button>-->
+<!--<button id="next">next</button>-->
+
+<!--<div id="wrapper"></div>-->
+<!--// *** Створити 3 інпута та кнопку. Один визначає кількість рядків, другий - кількість ячеєк, третій вмиіст ячеєк-->
+<label for="rows">Кількість рядків:</label>
+<input type="number" id="rows" name="rows"><br><br>
+
+<label for="columns">Кількість комірок:</label>
+<input type="number" id="columns" name="columns"><br><br>
+
+<label for="content">Вміст комірок:</label>
+<input type="text" id="content" name="content"><br><br>
+
+<button onclick="createTable()">Створити таблицю</button>
+
+<div id="tableContainer"></div>
+
+
+
+<script src="main10.js"></script>
+</body>
+</html>
